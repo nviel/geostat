@@ -1,0 +1,17 @@
+[carte]
+name      : photo_monde.png
+territoire: /home/nico/Applications/tools/geostats/ressouces/territoires/WLD.ter
+palette   : /home/nico/Applications/tools/geostats/ressouces/palettes/default.pal
+
+
+[sources]
+all/ORTHOIMAGERY.ORTHOPHOTOS.10 : 10
+all/ORTHOIMAGERY.ORTHOPHOTOS.9  : 9
+all/ORTHOIMAGERY.ORTHOPHOTOS.8  : 8
+all/ORTHOIMAGERY.ORTHOPHOTOS.7  : 7 
+all/ORTHOIMAGERY.ORTHOPHOTOS.6  : 6
+all/ORTHOIMAGERY.ORTHOPHOTOS.5  : 5
+all/ORTHOIMAGERY.ORTHOPHOTOS.4  : 4
+all/ORTHOIMAGERY.ORTHOPHOTOS.3  : 3
+all/ORTHOIMAGERY.ORTHOPHOTOS.2  : 2
+all/ORTHOIMAGERY.ORTHOPHOTOS.1  : 1

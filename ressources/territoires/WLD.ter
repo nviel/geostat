@@ -1,0 +1,8 @@
+# Monde en 1024x1024px
+[territoire]
+xo=0
+yo=0
+dx=1024
+dy=1024
+pix_level=10
+contour=contour_monde.png

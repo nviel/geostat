@@ -1,0 +1,8 @@
+[carte]
+name      : photo_fxx_19.png
+territoire: /home/nico/Applications/tools/geostats/ressouces/territoires/FXX.ter
+palette   : /home/nico/Applications/tools/geostats/ressouces/palettes/default.pal
+
+
+[sources]
+all/ORTHOIMAGERY.ORTHOPHOTOS.19  : 19

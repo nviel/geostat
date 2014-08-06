@@ -1,0 +1,17 @@
+[carte]
+name      : photo_idf_12-19.png
+territoire: /home/nico/Applications/tools/geostats/ressouces/territoires/IDF.ter
+palette   : /home/nico/Applications/tools/geostats/ressouces/palettes/default.pal
+
+
+[sources]
+all/ORTHOIMAGERY.ORTHOPHOTOS.10  : 10
+all/ORTHOIMAGERY.ORTHOPHOTOS.11  : 11 
+all/ORTHOIMAGERY.ORTHOPHOTOS.12  : 12
+all/ORTHOIMAGERY.ORTHOPHOTOS.13  : 13
+all/ORTHOIMAGERY.ORTHOPHOTOS.14  : 14
+all/ORTHOIMAGERY.ORTHOPHOTOS.15  : 15
+all/ORTHOIMAGERY.ORTHOPHOTOS.16  : 16
+all/ORTHOIMAGERY.ORTHOPHOTOS.17  : 17
+all/ORTHOIMAGERY.ORTHOPHOTOS.18  : 18
+all/ORTHOIMAGERY.ORTHOPHOTOS.19  : 19

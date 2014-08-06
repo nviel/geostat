@@ -1,0 +1,15 @@
+[carte]
+name      : photo_fxx.png
+territoire: /home/nico/Applications/tools/geostats/ressources/territoires/FXX.ter
+palette   : /home/nico/Applications/tools/geostats/ressources/palettes/default.pal
+
+
+[sources]
+all/ORTHOIMAGERY.ORTHOPHOTOS.8  : 8
+all/ORTHOIMAGERY.ORTHOPHOTOS.9  : 9
+all/ORTHOIMAGERY.ORTHOPHOTOS.10 : 10
+all/ORTHOIMAGERY.ORTHOPHOTOS.11  : 11 
+all/ORTHOIMAGERY.ORTHOPHOTOS.12  : 12
+all/ORTHOIMAGERY.ORTHOPHOTOS.13  : 13
+all/ORTHOIMAGERY.ORTHOPHOTOS.14  : 14
+#ORTHOIMAGERY.ORTHOPHOTOS.15  : 15
